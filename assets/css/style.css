@@ -214,5 +214,11 @@ box-sizing: border-box;
     border-bottom: 1px solid #ebebeb;
 }
 
-
-  
+.textNews p{
+    font-size: 14px;
+    margin-left: 29px;
+}
+.imagesFooter .col-lg-2 img{
+    width: 100%;
+    
+}
